@@ -14,7 +14,7 @@ Modelo de concurso de preguntas y respuestas
 
 ## Features
 
-* Configuracion del Juego:  Se crearon 23  preguntas con sus respectivas respuestas (con 3 opciones erradas y 1
+* Configuracion del Juego:  Se crearon 25  preguntas con sus respectivas respuestas (con 3 opciones erradas y 1
 valida).
 * Iniciar el juego: el juego inicia en la primera ronda y selecciona preguntas al azar.
 * Responder a la pregunta: debes seleccionar una opción de 4 posibles.
