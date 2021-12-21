@@ -1,5 +1,6 @@
 # prueba-sofka
 Modelo de concurso de preguntas y respuestas
+josedmaza.github.io/prueba-sofka/
 
 
 
@@ -24,3 +25,5 @@ manera otorgar premios según la ronda que este.
 * Fin del juego voluntario o ganara ronda final: se finaliza el juego porque el jugador lo decide.
 * Fin del juego forzado: el sistema finaliza el juego porque no selecciono una pregunta
 correcta. 
+
+## Documentacion
