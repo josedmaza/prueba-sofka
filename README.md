@@ -27,3 +27,7 @@ manera otorgar premios según la ronda que este.
 correcta. 
 
 ## Documentacion
+
+* https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA
+* https://developer.mozilla.org/es/
+* https://stackoverflow.com/
