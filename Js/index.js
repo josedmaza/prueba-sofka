@@ -94,7 +94,7 @@ function resetGame() {
   player1.score = 0;
   player1.questionCount = 1;
   $score.innerHTML = player1.score;
-  $questionCount.innerHTML = player1.currentQuestion + rand;
+  $questionCount.innerHTML = player1.currentQuestion + 1;
   $question.innerHTML =
     player1.currentCategory.data[rand].question;
   $optionA.innerHTML =
@@ -139,3 +139,5 @@ $submit.addEventListener("click", function () {
     resetGame();
   }
 });
+
+$restart.addEventListener("click", resetGame);

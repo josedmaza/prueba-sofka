@@ -73,7 +73,7 @@ let categories = {
         {
           question: "¿Qué lenguajes usamos más al lado del navegador?",
           options: ["A: Java", "B: Javascript", "C: Ruby", "D: Python"],
-          ans: "A: Java",
+          ans: "B: Javascript",
         },
         {
           question: "¿Qué es un algoritmo?",
@@ -182,7 +182,7 @@ let categories = {
             "C: Es una colección organizada de datos relacionados donde los datos se almacenan y organizan para cumplir un propósito específico.",
             "D: A y C son verdaderas",
           ],
-          ans: "A: es el proceso de eliminar datos redundantes de la base de datos dividiendo la tabla de una manera bien definida para mantener la integridad de los datos.",
+          ans: "A: Es el proceso de eliminar datos redundantes de la base de datos dividiendo la tabla de una manera bien definida para mantener la integridad de los datos.",
         },
         {
           question: "Las ventajas de SQL son:",
